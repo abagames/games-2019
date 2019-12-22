@@ -1,5 +1,7 @@
 # Games created by me in 2019
 
+Click the image to play the game.
+
 [![lland screenshot](https://abagames.github.io/kackac/lland/screenshot.gif)](https://abagames.github.io/kackac/?lland)
 [![rj-10 screenshot](https://abagames.github.io/rj-10/lv8.gif)](https://abagames.github.io/rj-10/index.html)
 [![zartan screenshot](https://abagames.github.io/kackac/zartan/screenshot.gif)](https://abagames.github.io/kackac/?zartan)
